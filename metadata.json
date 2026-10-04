@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aura",
+  "description": "Aura is an empathetic, culturally attuned AI companion designed specifically for South Africa, celebrating Mzansi life, Ubuntu spirit, load shedding preparedness, and local languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

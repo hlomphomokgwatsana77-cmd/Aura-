@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aura</string>
+    <string name="companion_tagline">Your South African AI Companion</string>
+    <string name="mzansi_greeting">Howzit, Mzansi!</string>
+    <string name="nav_chat">Aura Chat</string>
+    <string name="nav_mzansi_hub">Mzansi Hub</string>
+    <string name="nav_vibe">Vibe Check</string>
+    <string name="nav_settings">Settings</string>
+</resources>
